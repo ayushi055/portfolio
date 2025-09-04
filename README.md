@@ -1,7 +1,7 @@
 # Biostatistician/Data Scientist
 
 ### Education
-Biostatistics MS
-Biochemistry BS
+- Biostatistics MS
+- Biochemistry BS
 
 ### Projects
